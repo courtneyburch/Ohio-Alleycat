@@ -5,7 +5,7 @@ Project for Code Kentucky Data Analysis 2 class, using data from Ohio Alleycat R
 [Ohio Alleycat Resource and Spay/Neuter Clinic (OAR)](http://www.ohioalleycat.org/) is a 501(c)(3) organization located in Cincinnati Ohio. OAR has been operating since 1998 with the mission of providing low-cost spay/neuter services, education and outreach, and TNR (trap-neuter-return) programs. OAR also runs no-kill adoption center that accepts cats from other rescue organizations and adopts them to new homes in the Cincinnati tri-state area.
 
 # Project Goals
-To conduct extract, analyze, and visualize data related to adopted animals from Ohio Alleycat Resource. 
+To conduct extract, analyze, and visualizYou e data related to adopted animals from Ohio Alleycat Resource. 
 Questions to be answered include:
 - From what partner organizations do cats at OAR originate?
 - How do factors such as age, sex, or coloring, interact with adoption rates?
