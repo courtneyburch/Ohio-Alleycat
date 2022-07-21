@@ -31,6 +31,19 @@ Can be found on Tableau public (link)
 
 # Code Kentucky Requirements
 
+1. Loading Data
+- Read TWO data files (JSON, CSV, Excel, etc.). 
+
+2. Clean and operate on the data while combining them
+- Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
+
+3. Visualize / Present your data
+- Make at least 1 Pandas pivot table and 1 matplotlib/seaborn plot. 
+- Make a Tableau dashboard to display your data.
+
+4. Best practices
+- Utilize a virtual environment and include instructions in your README on how the user should set one up
+
 # Running the project
 
 
