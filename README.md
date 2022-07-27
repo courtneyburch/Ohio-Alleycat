@@ -45,6 +45,15 @@ Can be found on [Tableau public](https://public.tableau.com/app/profile/courtney
 
 # Running the project
 
+1. Set up a virtual environment and activate it:
+`python -m venv venv`
+Windows:
+` venv/Scripts/activate`
+Mac/Linux:
+`source venv/bin/activate`
+2. Install requirements.txt
+`python3 -m pip install requirements.txt`
+3. run oar_data.ipynb in Jupyter Notebook
 
 
 
