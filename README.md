@@ -18,7 +18,7 @@ As a regular volunteer at OAR, I previously had a basic user account that allowe
 # Data Extraction
 To learn about the Animal Shelter Manager software, I used the excellent documentation found 	[here](https://sheltermanager.com/repo/asm3_help/index.html). To query the database and extract the data I needed into csv files, I used the dictionary of [Database Tables/Columns](https://sheltermanager.com/repo/asm3_help/databasetables.html#) and the [Entity Relationship Diagrams](https://sheltermanager.com/repo/asm3_help/relationships.html).
 
-Queries I wrote to extract data can be found in Database/queries.md.
+Queries I wrote to extract data can be found in sql.md.
 
 # Data Analysis
 
