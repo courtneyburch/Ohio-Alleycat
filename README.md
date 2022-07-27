@@ -7,7 +7,6 @@ Project for Code Kentucky Data Analysis 2 class, using data from Ohio Alleycat R
 # Project Goals
 To conduct extract, analyze, and visualizYou e data related to adopted animals from Ohio Alleycat Resource. 
 Questions to be answered include:
-- From what partner organizations do cats at OAR originate?
 - How do factors such as age, sex, or coloring, interact with adoption rates?
 - How do geographic factors such as zip code interact with adoption rates?
 
@@ -27,7 +26,7 @@ Can be found in oar_data.ipynb
 
 # Visualization
 
-Can be found on Tableau public (link)
+Can be found on [Tableau public](https://public.tableau.com/app/profile/courtney.burch/viz/OhioAlleycat/Dashboard1) 
 
 # Code Kentucky Requirements
 

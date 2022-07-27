@@ -23,29 +23,20 @@ on  owner.ID = adoption.OwnerId
 ```
 resulting files: adopters.csv
 
-4. Coat types
-```
-select * from lkcoattype
-```
-resulting file: coat_type.csv
 
-5.  Coat colors
+4.  Coat colors
 ```
 select * from basecolour
 ```
 resulting file: coat_color.csv
 
-6. Shelter Locations
+5. Shelter Locations
 ```
 select * from internallocation
 ```
 resulting file: shelter_location.csv
 
-7. Sex
-```
-select * from lksex
-```
-resulting file: animal_sex.csv
+
 
 
 
